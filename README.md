@@ -25,7 +25,7 @@ npm run dev
 
 ## Live 
 
-[click here](https://documenter.getpostman.com/view/16243159/2s93CHuv24)
+[click here](https://auth-api-crypto.onrender.com)
 
 ## Contributing
 
